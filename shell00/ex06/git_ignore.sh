@@ -1,0 +1,1 @@
+git ls-files -coi --exclude-standard
